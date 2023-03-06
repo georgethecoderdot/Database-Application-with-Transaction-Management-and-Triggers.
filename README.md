@@ -2,7 +2,7 @@
 
 This is a program that allows the user to interact with a MySQL database. 
 
-The program has four main functions: querying, inserting data, updating data, and starting a transaction.
+The program has four main functionalities: querying, inserting data, updating data, and starting a transaction.
 
 In the main.py file, the program establishes a connection to the database using the credentials provided, 
 
